@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+7-10-17
 
 ### Student Name:  
-(First and Last Name)
+Ryan Lindner
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a Javascript photo gallery where a user can click left and right between a series of photos for viewing.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ryanlindner.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to use the DOM to select an Img element and alter it's src value.
+2. We learned about adding event listeners to elements so javascript events can be triggered in response to user interactions such as a click.
+3. We learned about using an 'if else' statement to change the behavior of the gallery based on certain conditions.
